@@ -1,0 +1,20 @@
+NOTE
+
+this executable is safe I (FutureVS) have tested it MYSELF and its safe so enjoy :)
+
+------------------------------------------------------
+
+ONLY OPEN IF ITS CALLED "FutureOS.bat" AND THERE IS A SIGNATURE BELOW
+
+------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+this copy of FutureOS has been signed and is safe to execute!
