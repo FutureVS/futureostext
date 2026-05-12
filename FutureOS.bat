@@ -16,7 +16,7 @@ cls
 echo  Hello User!
 echo.
 echo Date: %date% Time: %time%
-echo Here are your options in your own OS!!:
+echo 
 echo 1)Write text file.
 echo 2)Documents...
 echo 3)Calculator...
